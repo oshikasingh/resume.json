@@ -1,0 +1,125 @@
+{
+	"basics": {
+		"name": "Oshika Singh",
+		"label": "Student",
+		"picture": "",
+		"email": "2021kucp1116@iiitkota.ac.in",
+		"phone": "",
+		"website": "",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. ",
+		"location": {
+			"address": "Meerut",
+			"postalCode": "250001",
+			"city": "meerut",
+			"countryCode": " India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [{
+				"network": "",
+				"username": "",
+				"url": ""
+			},
+			{
+				"network": "",
+				"username": "",
+				"url": ""
+			},
+			{
+				"network": "",
+				"username": "",
+				"url": ""
+			},
+			{
+				"network": "",
+				"username": "",
+				"url": ""
+			}
+		]
+	},
+	"work": [{
+			"company": "",
+			"position": "",
+			"website": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": ""
+		},
+		{
+			"company": "",
+			"position": "",
+			"website": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": ""
+		},
+		{
+			"company": "",
+			"position": "",
+			"website": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": ""
+		}
+	],
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "",
+		"endDate": "",
+		"gpa": "",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"awards": [{
+		"title": "",
+		"awarder": "",
+		"date": ""
+	}],
+	"publications": [{
+			"title": "",
+			"details": ""
+
+		},
+		{
+			"title": "",
+			"details": "",
+			"link": ""
+		},
+		{
+			"title": "",
+			"details": "",
+			"link": ""
+		}
+	],
+	"skills": [{
+		"name": "Front End Development",
+		"level": "Master",
+		"keywords": [
+
+			"C/C++",
+			"HTML",
+			"CSS"
+
+		]
+	}],
+	"languages": [{
+		"language": "English",
+		"fluency": "Native speaker"
+	}],
+	"interests": [{
+			"name": "Painting",
+			"keywords": [
+				""
+			]
+		},
+		{
+			"name": "Playing",
+			"keywords": [
+				"Basketball",
+				"Badminton"
+			]
+		}
+	]
+}
